@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# 运行时产物
+*.mp3
+*.log
+
+# Streamlit 本地密钥（绝不提交）
+.streamlit/secrets.toml
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,7 @@
+[client]
+# viewer：隐藏 Deploy 等开发者选项，但保留侧边栏折叠控件
+# （不要用 minimal，它会把侧边栏展开按钮一起干掉）
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
